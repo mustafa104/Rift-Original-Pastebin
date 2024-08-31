@@ -1,6 +1,6 @@
 # Rift-Original-Pastebin
 
-# This is the original file that was archived by The WayBack Machine it was terminated 10 days before making this repoistory
+# This is the original file that was archived by The WayBack Machine it was terminated 10 days before making this repository
 
 Rift Weapon IDs / AGIDs
 Managed/Worked on by Mineluke!
